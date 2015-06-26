@@ -3,7 +3,7 @@ title: Sample site at http://rayhightower.github.io/sample
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Sample Jekyll site at http://rayhightower.github.cio/sample. 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://rayhightower.github.io/sample" # the subpath of your site, e.g. /blog/
 url: "http://rayhightower.github.io/sample" # the base hostname & protocol for your site
 twitter_username: rayhightower
 github_username:  rayhightower
